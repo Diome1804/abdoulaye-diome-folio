@@ -53,7 +53,7 @@ export const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-5xl md:text-7xl font-playfair font-bold mb-6 leading-tight">
-              Bonjour, je suis{" "}
+              Bonjour, je continue avec{" "}
               <span className="gradient-primary bg-clip-text text-transparent">
                 {personalInfo.name}
               </span>
