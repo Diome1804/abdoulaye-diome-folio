@@ -169,7 +169,7 @@ export const Contact = () => {
                       value={formData.name}
                       onChange={handleChange}
                       placeholder="Votre nom"
-                      required
+                      //required
                       className="mt-1"
                     />
                   </div>
@@ -183,7 +183,7 @@ export const Contact = () => {
                       value={formData.email}
                       onChange={handleChange}
                       placeholder="votre@email.com"
-                      required
+                      //required
                       className="mt-1"
                     />
                   </div>
@@ -208,7 +208,7 @@ export const Contact = () => {
                       value={formData.message}
                       onChange={handleChange}
                       placeholder="Votre message..."
-                      required
+                      //required
                       rows={6}
                       className="mt-1"
                     />

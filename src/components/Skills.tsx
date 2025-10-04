@@ -4,6 +4,7 @@ import { Progress } from "@/components/ui/progress";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Briefcase, GraduationCap } from "lucide-react";
 
+
 const SkillCategory = ({ title, skillList }: { title: string; skillList: { name: string; level: number }[] }) => (
   <motion.div
     initial={{ opacity: 0, y: 30 }}

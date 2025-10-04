@@ -1,14 +1,14 @@
 export const personalInfo = {
   name: "Abdoulaye Diome",
   title: "Développeur Full-Stack",
-  email: "abdoulaye.diome@example.com",
-  phone: "+221 77 123 45 67",
+  email: "a.diome4@isepdiamniadio.edu.sn",
+  phone: "+221 77 823 22 95",
   location: "Dakar, Sénégal",
-  whatsapp: "+221771234567",
-  github: "https://github.com/abdoulayediome",
-  linkedin: "https://linkedin.com/in/abdoulayediome",
-  bio: "Développeur full-stack passionné avec plus de 5 ans d'expérience dans la création d'applications web et mobile modernes. Spécialisé en React, Node.js et solutions cloud, je transforme des idées en produits digitaux performants et évolutifs.",
-  cvUrl: "/cv-abdoulaye-diome.pdf",
+  whatsapp: "+221778232295",
+  github: "https://github.com/Diome1804",
+  linkedin: "https://www.linkedin.com/in/abdoulaye-diome-2b595a320/",
+  bio: "Développeur full-stack passionné avec plus de 1 an d'expérience dans la création d'applications web et mobile modernes. Spécialisé en React, Node.js et solutions cloud, je transforme des idées en produits digitaux performants et évolutifs.",
+  cvUrl: " https://mon-cv-sigma.vercel.app/",
 };
 
 export const skills = {

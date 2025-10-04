@@ -9,7 +9,7 @@ export const Footer = () => {
     <footer className="bg-card border-t border-border py-12">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center gap-6">
-          <div className="font-playfair text-3xl font-bold gradient-primary bg-clip-text text-transparent">
+          <div className="font-playfair text-3xl font-bold ">
             {personalInfo.name}
           </div>
 
@@ -33,7 +33,7 @@ export const Footer = () => {
 
           <div className="text-center text-sm text-muted-foreground">
             <p className="flex items-center gap-2 justify-center">
-              © {currentYear} {personalInfo.name}. Fait avec <Heart className="h-4 w-4 text-red-500 fill-red-500" /> et React
+              © {currentYear} {personalInfo.name}. Fait avec React
             </p>
           </div>
         </div>
