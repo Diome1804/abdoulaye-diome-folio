@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { personalInfo } from "@/lib/data";
-import profileImage from "@/assets/me and I .png";
+import profileImage from "@/assets/me.jpg";
 
 export const About = () => {
   return (
