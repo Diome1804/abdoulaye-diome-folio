@@ -107,13 +107,13 @@ export const education = [
 export const projects = [
   {
     id: 5,
-    title: "Application Educative",
+    title: "Darou Salam Location - Plateforme de location de véhicules",
     category: "Web App",
-    description: "Création d'une application de gestion des apprenants. Implémentation des fonctionnalités CRUD complètes. Interface utilisateur simple et intuitive.",
-    technologies: ["PHP", "HTML", "CSS", "MySQL"],
-    image: "/projects/educative.jpg",
-    github: "https://github.com/Diome1804/MaxitSa",
-    demo: "https://maxitsa-3ab3.onrender.com",
+    description: "Application full-stack de location de véhicules avec authentification sécurisée (JWT en cookie HttpOnly) et gestion multi-rôles (client/admin). Catalogue avec filtres avancés, réservation en ligne, gestion du parc automobile et tableau de bord administrateur avec suivi des réservations.",
+    technologies: ["Next.js", "React", "TypeScript", "Node.js", "Express", "Prisma", "PostgreSQL", "Tailwind CSS", "Cloudinary"],
+    image: "/projects/car-rental.jpg",
+    github: "https://github.com/Diome1804/Front_Darou_Salam_Location",
+    demo: "https://front-darou-salam-location-d9cskxb33-diome1804s-projects.vercel.app/",
   },
   {
     id: 6,
@@ -135,4 +135,16 @@ export const projects = [
     github: "https://github.com/Diome1804/Gestion_Salaire",
     demo: "#",
   },
+  {
+    id: 8,
+    title: "Application Educative",
+    category: "Web App",
+    description: "Création d'une application de gestion des apprenants. Implémentation des fonctionnalités CRUD complètes. Interface utilisateur simple et intuitive.",
+    technologies: ["PHP", "HTML", "CSS", "MySQL"],
+    image: "/projects/educative.jpg",
+    github: "https://github.com/Diome1804/MaxitSa",
+    demo: "https://maxitsa-3ab3.onrender.com",
+  },
+
+
 ];
